@@ -1,4 +1,4 @@
-# Procurement-Managemant-System
+# Procurement-Management-System
 
 The Web Procurement Management System (PMS) provides an extensive feature set with the goal of improving and optimizing the procurement procedure at the University of Ruhuna's Faculty of 
 Engineering. Basically, the PMS lets users effectively create, monitor, and handle procurement requests. Real-time progress tracking, automated workflows for approval, and an established supplier database for convenient access are some of the key features.
